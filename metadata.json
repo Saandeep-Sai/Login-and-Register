@@ -1,0 +1,6 @@
+{
+  "name": "Authentication Portal",
+  "description": "A polished and responsive website featuring user registration, secure login, profile management, and interactive session states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
